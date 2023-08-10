@@ -1,5 +1,5 @@
-### Hi there 👋 
-This is Austin Zhao!
+## Hi there 👋 
+## This is Austin Zhao!
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AustinZhao0308&theme=react&show_icons=true&hide_border=true" /> 
 
