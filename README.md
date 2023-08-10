@@ -31,6 +31,7 @@
 ***
 
 ### 📫 How to reach me
+[![Resume](https://img.shields.io/badge/赵晨凯-My_Resume-lightgreen.svg?style=flat&logo=googledocs&logoColor=white)](https://rxresu.me/1159107202/chenkai-zhao)
 [![Personal Website](https://img.shields.io/badge/Website-akinaustin-blue.svg?style=flat&logo=aboutdotme&logoColor=white)](http://akinaustin.space)
 [![Email](https://img.shields.io/badge/School_Email-ECNU-red?style=flat&logo=Gmail&logoColor=white)](mailto:10205102441@stu.ecnu.edu.cn)
 [![Email](https://img.shields.io/badge/Company_Email-Kuaishou-orange.svg?color=FFA500&style=flat&logo=Gmail&logoColor=white)](mailto:zhaochenkai@kuaishou.com)
