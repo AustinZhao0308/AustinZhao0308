@@ -1,7 +1,7 @@
 ## Hi there 👋  This is Austin Zhao!
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AustinZhao0308&theme=react&show_icons=true&hide_border=true" /> 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AustinZhao0308&theme=react&hide_border=true&layout=compact" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AustinZhao0308&show_icons=true&theme=react&hide_border=true" /> 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AustinZhao0308&theme=react&hide_border=true&layout=compact" />
 
 ### 🧑‍💻 Quick Facts
 - 🛠️ A Chinese Independent Developer @ Hangzhou
@@ -37,7 +37,7 @@
 ***
 
 ### 🔭 I'm currently working on ...
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AustinZhao0308&repo=ShadowVerse&theme=react&hide_border=true)](https://github.com/AustinZhao0308/ShadowVerse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=AustinZhao0308&repo=ShadowVerse&theme=react&hide_border=true)](https://github.com/AustinZhao0308/ShadowVerse)
 
 
 
