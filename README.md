@@ -26,7 +26,7 @@
 
 ***
 
-### 📫 How to reach me
+### 📫 How to reach me ...
 [![Resume](https://img.shields.io/badge/赵晨凯-Resume-lightgreen.svg?style=flat&logo=googledocs&logoColor=white)](https://rxresu.me/1159107202/chenkai-zhao)
 [![Personal Website](https://img.shields.io/badge/Website-akinaustin-blue.svg?style=flat&logo=aboutdotme&logoColor=white)](http://akinaustin.space)
 [![Github](https://img.shields.io/badge/AustinZhao-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AustinZhao0308)
@@ -36,7 +36,7 @@
 [![Wyy](https://img.shields.io/badge/akinaustin-网易云音乐-red.svg?color=FF0000&style=flat&logo=applemusic&logoColor=white)](https://music.163.com/#/artist?id=50134020)
 ***
 
-### 🔭 I'm currently working on
+### 🔭 I'm currently working on ...
 
 
 
