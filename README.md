@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=AustinZhao0308)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AustinZhao0308/AustinZhao0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
