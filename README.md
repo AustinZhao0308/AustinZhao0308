@@ -37,7 +37,7 @@
 ***
 
 ### 🔭 I'm currently working on ...
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AustinZhao0308&repo=ShadowVerse&theme=react&hide_border=true)](https://github.com/AustinZhao0308/ShadowVerse)
 
 
 
