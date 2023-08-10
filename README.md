@@ -2,10 +2,10 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AustinZhao0308&theme=react&show_icons=true&hide_border=true" /> 
 
-- 📳 Intern of Stability Group @ Kuaishou
-- 🎓 Computer Science and Technology Student @ ECNU
-- 🎸 Lead Guitarist @ Cookiefei
-- 🧑‍💻 An Independent Developer
+- 🧑‍💻 A Chinese Independent Developer @Hangzhou&Shanghia
+- 📳 Intern of Stability Group @Kuaishou
+- 🎓 Computer Science and Technology Student @ECNU
+- 🎸 Lead Guitarist @Cookiefei
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
