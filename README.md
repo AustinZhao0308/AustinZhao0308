@@ -1,19 +1,20 @@
 ## Hi there 👋  This is Austin Zhao!
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AustinZhao0308&theme=react&show_icons=true&hide_border=true" /> 
-
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AustinZhao0308&theme=react&hide_border=true&layout=compact" />
 
-- 🧑‍💻 A Chinese Independent Developer @ Hangzhou
+### 🧑‍💻 About Me
+- 🛠️ A Chinese Independent Developer @ Hangzhou
 - 📳 Intern of Stability Group @ Kuaishou
 - 🎓 Computer Science and Technology Student @ ECNU
 - 🎸 Lead Guitarist @ Cookiefei
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+***
 
-[![Personal Website](https://img.shields.io/badge/Personal_Website-Austin-brightgreen.svg)](http://akinaustin.space)
+### 📫 How to reach me
+[![Personal Website](https://img.shields.io/badge/Website-akinaustin-brightgreen.svg?style=flat&logo=aboutdotme&logoColor=white)](http://akinaustin.space)
+[![Email](https://img.shields.io/badge/School_Email-ECNU-red?style=flat&logo=Gmail&logoColor=white)](mailto:10205102441@stu.ecnu.edu.cn)
+[![Email](https://img.shields.io/badge/Company_Email-Kuaishou-orange.svg?style=flat&logo=Gmail&logoColor=white)](mailto:zhaochenkai@kuaishou.com)
+[![Bilibili](https://img.shields.io/badge/akinaustin-Bilibili-pink.svg?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/281717227)
 
 
 
