@@ -13,8 +13,6 @@
 ### 🛠️ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=mui)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
@@ -24,7 +22,6 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
-![sql](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
