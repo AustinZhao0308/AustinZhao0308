@@ -2,7 +2,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AustinZhao0308&theme=react&show_icons=true&hide_border=true" /> 
 
-- 🎓 A Computer Science and Technology student @ East China Normal University
+- 🎓 A Computer Science and Technology Student @ ECNU
 - 🌱 I’m currently learning ..
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
