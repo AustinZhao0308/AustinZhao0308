@@ -11,10 +11,11 @@
 ***
 
 ### 📫 How to reach me
-[![Personal Website](https://img.shields.io/badge/Website-akinaustin-brightgreen.svg?style=flat&logo=aboutdotme&logoColor=white)](http://akinaustin.space)
+[![Personal Website](https://img.shields.io/badge/Website-akinaustin-blue.svg?style=flat&logo=aboutdotme&logoColor=white)](http://akinaustin.space)
 [![Email](https://img.shields.io/badge/School_Email-ECNU-red?style=flat&logo=Gmail&logoColor=white)](mailto:10205102441@stu.ecnu.edu.cn)
-[![Email](https://img.shields.io/badge/Company_Email-Kuaishou-orange.svg?style=flat&logo=Gmail&logoColor=white)](mailto:zhaochenkai@kuaishou.com)
+[![Email](https://img.shields.io/badge/Company_Email-Kuaishou-orange.svg?color=FFA500&style=flat&logo=Gmail&logoColor=white)](mailto:zhaochenkai@kuaishou.com)
 [![Bilibili](https://img.shields.io/badge/akinaustin-Bilibili-pink.svg?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/281717227)
+[![Wyy](https://img.shields.io/badge/akinaustin-网易云音乐-red.svg?color=FF0000&style=flat&logo=applemusic&logoColor=white)](https://music.163.com/#/artist?id=50134020)
 
 
 
