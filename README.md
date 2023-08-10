@@ -8,7 +8,7 @@
 - 📳 Intern of Stability Group @ Kuaishou
 - 🎓 Computer Science and Technology Student @ ECNU
 - 🎸 Lead Guitarist @ Cookiefei
-***
+<br>
 
 ### 📫 How to reach me
 [![Personal Website](https://img.shields.io/badge/Website-akinaustin-blue.svg?style=flat&logo=aboutdotme&logoColor=white)](http://akinaustin.space)
