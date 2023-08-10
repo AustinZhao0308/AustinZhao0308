@@ -2,7 +2,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AustinZhao0308&theme=react&show_icons=true&hide_border=true" /> 
 
-- 🧑‍💻 A Chinese Independent Developer @ Hangzhou&Shanghia
+- 🧑‍💻 A Chinese Independent Developer @ Hangzhou & Shanghai
 - 📳 Intern of Stability Group @ Kuaishou
 - 🎓 Computer Science and Technology Student @ ECNU
 - 🎸 Lead Guitarist @ Cookiefei
