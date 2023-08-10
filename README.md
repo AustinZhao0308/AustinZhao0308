@@ -3,7 +3,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AustinZhao0308&theme=react&show_icons=true&hide_border=true" /> 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AustinZhao0308&theme=react&hide_border=true&layout=compact" />
 
-### 🧑‍💻 About Me
+### 🧑‍💻 Quick Facts
 - 🛠️ A Chinese Independent Developer @ Hangzhou
 - 📳 Intern of Stability Group @ Kuaishou
 - 🎓 Computer Science and Technology Student @ ECNU
