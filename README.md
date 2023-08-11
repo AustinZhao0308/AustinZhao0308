@@ -20,7 +20,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
-![sql](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
