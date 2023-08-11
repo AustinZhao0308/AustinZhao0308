@@ -15,12 +15,12 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
+![sql](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
