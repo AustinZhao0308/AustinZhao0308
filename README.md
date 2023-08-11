@@ -18,7 +18,7 @@
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
 ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
