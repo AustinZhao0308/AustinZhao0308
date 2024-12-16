@@ -7,7 +7,7 @@
 - 🛠️ A Chinese Independent Developer @ Hangzhou
 - 📳 Intern of Stability Group @ Kuaishou
 - 🎓 Computer Science and Technology Student @ ECNU
-- 🎸 Lead Guitarist @ Cookiefei
+- 🎸 Lead Guitarist @ falling nana
 ***
 
 ### 🛠️ Languages and Tools:
