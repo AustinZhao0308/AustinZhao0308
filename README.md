@@ -27,7 +27,7 @@
 
 ### 📫 How to reach me ...
 [![Resume](https://img.shields.io/badge/赵晨凯-Resume-lightgreen.svg?style=flat&logo=googledocs&logoColor=white)](https://rxresu.me/1159107202/chenkai-zhao-tech)
-[![Personal Website](https://img.shields.io/badge/Website-akinaustin-blue.svg?style=flat&logo=aboutdotme&logoColor=white)](http://akinaustin.space)
+[![Personal Website](https://img.shields.io/badge/Website-akinaustin-blue.svg?style=flat&logo=aboutdotme&logoColor=white)](https://blog.akinaustin.space)
 [![Github](https://img.shields.io/badge/AustinZhao-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AustinZhao0308)
 [![Email](https://img.shields.io/badge/School_Email-ECNU-red?style=flat&logo=Gmail&logoColor=white)](mailto:10205102441@stu.ecnu.edu.cn)
 [![Email](https://img.shields.io/badge/Company_Email-Kuaishou-orange.svg?color=FFA500&style=flat&logo=Gmail&logoColor=white)](mailto:zhaochenkai@kuaishou.com)
