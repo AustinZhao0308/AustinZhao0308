@@ -5,9 +5,9 @@
 
 ### 🧑‍💻 Quick Facts
 - 🛠️ A Chinese Independent Developer @ Hangzhou
-- 📳 Intern of Stability Group @ Kuaishou
+- 📳 Stability&Performance Engineer @ Kuaishou
 - 🎓 Computer Science and Technology Student @ ECNU
-- 🎸 Lead Guitarist @ falling nana
+- 🎸 Lead Guitarist @ falling nana @ yooha!
 ***
 
 ### 🛠️ Languages and Tools:
