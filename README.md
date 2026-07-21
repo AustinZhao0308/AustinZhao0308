@@ -7,7 +7,7 @@
 - 🛠️ A Chinese Independent Developer @ Hangzhou
 - 📳 Stability&Performance Engineer @ Kuaishou
 - 🎓 Computer Science and Technology Student @ ECNU
-- 🎸 Lead Guitarist @ falling nana @ yooha!
+- 🎸 Lead Guitarist @ falling nana @ yooha! @ zhejiang250
 ***
 
 ### 🛠️ Languages and Tools:
